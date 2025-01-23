@@ -12,90 +12,81 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>26e00d4c-92b7-461f-b6b0-ee0e049c3a0e</testSuiteGuid>
    <testCaseLink>
-      <guid>658470e7-4975-4be8-8540-7329843e4e68</guid>
+      <guid>690a3e38-046b-4677-a8ba-cfd436c93c20</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Request Hadir</testCaseId>
-      <testDataLink>
-         <combinationType>ONE</combinationType>
-         <id>2808a641-cf86-46cd-b591-af7190038b3f</id>
-         <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-         </iterationEntity>
-         <testDataId>Data Files/Data Request Hadir</testDataId>
-      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>2808a641-cf86-46cd-b591-af7190038b3f</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>NPP</value>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
          <variableId>c2fb7d18-03c0-41e4-89fe-9ec8f5b5fa36</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>2808a641-cf86-46cd-b591-af7190038b3f</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Password</value>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
          <variableId>024dd14b-1c90-43c4-84c3-2b16037c03cc</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>2808a641-cf86-46cd-b591-af7190038b3f</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Title</value>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
          <variableId>876d2260-59d5-4371-a35d-394496c8eea6</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>2808a641-cf86-46cd-b591-af7190038b3f</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Tanggal</value>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
          <variableId>c3dfcc85-5ff4-4605-8aef-b012a1514f0c</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>2808a641-cf86-46cd-b591-af7190038b3f</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Jam Hadir</value>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
          <variableId>96e49655-f3b7-4a3d-8145-0767b75b8380</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>2808a641-cf86-46cd-b591-af7190038b3f</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Jam Pulang</value>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
          <variableId>370fe2ba-c509-4004-ad9b-5995d2abe8b7</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>2808a641-cf86-46cd-b591-af7190038b3f</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Karena</value>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
          <variableId>026b16f3-bf0c-44d1-8cb3-99a7b511ffd7</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>2808a641-cf86-46cd-b591-af7190038b3f</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Alasan</value>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
          <variableId>83fbb122-239e-4234-a43b-649eb3124de9</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>2808a641-cf86-46cd-b591-af7190038b3f</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Approval Unit</value>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
          <variableId>60d03096-b004-4b11-9393-e62f45fb3ae0</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>2808a641-cf86-46cd-b591-af7190038b3f</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Saksi</value>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
          <variableId>c98aa28f-bfa7-411a-b9ad-9317cfd5d5fc</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>2808a641-cf86-46cd-b591-af7190038b3f</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Reviewer1</value>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
          <variableId>4a30e4ee-c8c2-4c7e-bdc7-c93b9acac898</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>2808a641-cf86-46cd-b591-af7190038b3f</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Reviewer2</value>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
          <variableId>b0508eca-d649-4a7e-bd04-d842b622f49b</variableId>
       </variableLink>
    </testCaseLink>

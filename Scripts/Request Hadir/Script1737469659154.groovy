@@ -96,6 +96,8 @@ WebUI.click(findTestObject('Page_Hadir/hadir_select_reviewer2'))
 
 WebUI.click(findTestObject('Page_Hadir/hadir_reviewer2'))
 
+WebUI.click(findTestObject('Page_Absensi/absensi_logout'))
+
 //WebUI.click(findTestObject('Page_Hadir/Test1'))
 //
 //WebUI.waitForElementVisible(findTestObject('null'), 5)
@@ -106,5 +108,5 @@ WebUI.click(findTestObject('Page_Hadir/hadir_reviewer2'))
 //
 //WebUI.setText(findTestObject('null'), Reviewer1)
 //
-//WebUI.setText(findTestObject('Page_Hadir/hadir_reviewer2'), Reviewer2)
+//WebUI.setText(findTestObject('null'), Reviewer2)
 //

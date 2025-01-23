@@ -3,22 +3,22 @@
    <description></description>
    <name>hadir_reviewer2</name>
    <tag></tag>
-   <elementGuidId>77eb59c9-cb4b-4dc6-ac67-bbd2dc79843a</elementGuidId>
+   <elementGuidId>25dc3430-2d76-4ac7-be9d-b151806263f4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//form[@id='AbsensiForm']/table/tbody/tr[12]/td[2]/span/span/span[2]/span</value>
+         <key>CSS</key>
+         <value>li.k-item.k-state-hover</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>span.k-dropdown-wrap.k-state-default.k-state-hover.k-state-focused.k-state-active.k-state-border-down > span.k-select > span.k-icon.k-i-arrow-s</value>
+         <key>XPATH</key>
+         <value>//ul[@id='ReviewerId2_listbox']/li[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>tr:nth-child(12) > .valueColumn > span > .k-dropdown-wrap > .k-select > .k-icon</value>
+         <value>internal:role=option[name=&quot;AGUS SIDIK MULATO(40853)&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,8 +28,24 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>05698eb9-2e34-4183-861f-389fb12287df</webElementGuid>
+      <value>li</value>
+      <webElementGuid>0cac006f-5659-4830-93e2-5858570e9f9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>1bab8661-f43e-4523-9e8a-6ea01c73f0e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>3068f8d7-f228-4d54-b885-ffbe5e06e745</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,70 +53,94 @@
       <name>unselectable</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>f3c62194-4097-4419-93c9-872e305519d0</webElementGuid>
+      <webElementGuid>9086a068-e250-467a-a89e-fbf448f13bc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>k-icon k-i-arrow-s</value>
-      <webElementGuid>8df6bb3f-0dc1-415d-8e9c-9b569c86a04a</webElementGuid>
+      <value>k-item k-state-hover</value>
+      <webElementGuid>e50fec88-7025-40ed-8c98-c9481341e9b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>select</value>
-      <webElementGuid>f5e2c130-17b5-41fc-829f-0e9ce1c6afee</webElementGuid>
+      <value>AGUS SIDIK MULATO(40853)</value>
+      <webElementGuid>d30a0dec-92a9-445c-9c79-7cb8a179548f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;AbsensiForm&quot;)/table[@class=&quot;formTable&quot;]/tbody[1]/tr[12]/td[@class=&quot;valueColumn&quot;]/span[@class=&quot;k-widget k-dropdown k-header w300 k-state-border-down&quot;]/span[@class=&quot;k-dropdown-wrap k-state-default k-state-hover k-state-focused k-state-active k-state-border-down&quot;]/span[@class=&quot;k-select&quot;]/span[@class=&quot;k-icon k-i-arrow-s&quot;]</value>
-      <webElementGuid>81ff2e87-7a30-42d7-b240-a680022ed865</webElementGuid>
+      <value>id(&quot;ReviewerId2_listbox&quot;)/li[@class=&quot;k-item k-state-hover&quot;]</value>
+      <webElementGuid>833a9cdd-eb29-42f3-9df1-85aa8b5648f8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='AbsensiForm']/table/tbody/tr[12]/td[2]/span/span/span[2]/span</value>
-      <webElementGuid>e9084ee7-537a-4c54-ab62-4f8c8c167f6d</webElementGuid>
+      <value>//ul[@id='ReviewerId2_listbox']/li[2]</value>
+      <webElementGuid>535c5163-49e2-4607-b873-1f7ae544c37d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[3]/following::span[2]</value>
-      <webElementGuid>574558c8-e0fc-4a95-b71f-8566e9b0eb9d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[5]/following::li[1]</value>
+      <webElementGuid>33658a98-2017-4004-96ea-d6094ea3faef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/following::span[5]</value>
-      <webElementGuid>6a4abc8e-fe11-4128-b17d-d3e105b6fc5d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[4]/following::li[75]</value>
+      <webElementGuid>fb0c3e23-20c8-4dfb-a0b8-f1d285c8c2ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SLAMET HARTOJO(22673)'])[1]/preceding::li[1]</value>
+      <webElementGuid>ec8b1e9d-9102-4ecf-a607-5fbf7112b129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comment'])[1]/preceding::li[2]</value>
+      <webElementGuid>afc530a9-dddc-49b6-8f7e-ec62b3357100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AGUS SIDIK MULATO(40853)']/parent::*</value>
+      <webElementGuid>11ee3d4b-43b3-44b1-8c34-2d6bb835939a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[12]/td[2]/span/span/span[2]/span</value>
-      <webElementGuid>03a167ee-6f70-411c-b4ff-4871805a6a8c</webElementGuid>
+      <value>//div[12]/div/ul/li[2]</value>
+      <webElementGuid>3dffac80-58e1-4de9-aecc-9ba7d7b42571</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'select' or . = 'select')]</value>
-      <webElementGuid>97143af6-6dc6-4546-abf7-e721d7f6b3a5</webElementGuid>
+      <value>//li[(text() = 'AGUS SIDIK MULATO(40853)' or . = 'AGUS SIDIK MULATO(40853)')]</value>
+      <webElementGuid>ec9418cf-7c91-4bb7-8e56-933f8ada3263</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

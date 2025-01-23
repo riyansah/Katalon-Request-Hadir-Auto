@@ -4,14 +4,23 @@
    <name>a_16</name>
    <tag></tag>
    <elementGuidId>17c82633-0b46-45d9-9e96-0b0d408ca3f9</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
       <entry>
          <key>CSS</key>
          <value>td.k-state-hover > a.k-link</value>
       </entry>
       <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='b25d6a54-6723-4f2b-af6f-f03498aa9cce']/table/tbody/tr[3]/td[4]/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '#' and @title = '16 Januari 2025' and (text() = '16' or . = '16')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +38,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>364ef099-fec2-4ebc-b976-f8d221ac867a</webElementGuid>
+      <webElementGuid>b72a98d6-342a-4f48-9023-10145b8e0668</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>37aa22c9-2adf-4511-b175-159a47d49deb</webElementGuid>
+      <webElementGuid>80d10b5a-f810-424e-8d33-5f525935bf6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-link</value>
-      <webElementGuid>54743691-1785-438d-9c4c-44b076839c3f</webElementGuid>
+      <webElementGuid>4a358310-f484-402c-b61f-d4697c738b8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +62,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>2bad853d-c552-41a0-a091-a1b13392a534</webElementGuid>
+      <webElementGuid>3b84ef74-dbe6-4f8b-8b01-f60ef505350d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +70,7 @@
       <name>data-value</name>
       <type>Main</type>
       <value>2025/0/16</value>
-      <webElementGuid>db2366a7-2091-474d-83b7-b8db5f4076b4</webElementGuid>
+      <webElementGuid>ef814d79-7a48-4bac-9a33-5de6c2f933b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +78,7 @@
       <name>title</name>
       <type>Main</type>
       <value>16 Januari 2025</value>
-      <webElementGuid>e1d01374-89f2-4169-8328-d4754926f1a0</webElementGuid>
+      <webElementGuid>2324c259-f633-44c8-87a8-47f9af6fa106</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +86,7 @@
       <name>text</name>
       <type>Main</type>
       <value>16</value>
-      <webElementGuid>347d8f13-ff92-45ba-a358-f4d85812079a</webElementGuid>
+      <webElementGuid>bda6ef10-df2f-4915-8c55-3a9b3ef7f235</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b25d6a54-6723-4f2b-af6f-f03498aa9cce&quot;)/table[@class=&quot;k-content&quot;]/tbody[1]/tr[3]/td[@class=&quot;k-state-hover&quot;]/a[@class=&quot;k-link&quot;]</value>
-      <webElementGuid>3a367a33-655b-4b4c-bc36-922da024b896</webElementGuid>
+      <webElementGuid>12339c28-bab6-4f9d-a40e-b189d7a301a8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b25d6a54-6723-4f2b-af6f-f03498aa9cce']/table/tbody/tr[3]/td[4]/a</value>
-      <webElementGuid>7bceff2c-07c4-429d-ac71-526fa37ba694</webElementGuid>
+      <webElementGuid>1a0cb052-f728-4edd-8cdf-e750436a5ba4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +110,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'16')]</value>
-      <webElementGuid>8284cf23-b923-4f2b-990b-985fc2e83c50</webElementGuid>
+      <webElementGuid>66d2cad0-6f42-4c04-a453-54902aa78330</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='M'])[1]/following::a[9]</value>
-      <webElementGuid>09f064ab-b6af-4ca8-9bff-459fb40dd6bd</webElementGuid>
+      <webElementGuid>b85c074a-2ad0-4f41-b780-d7e8d2305a93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[3]/following::a[9]</value>
-      <webElementGuid>f0e2982c-fa80-4c44-9594-2ec22e621272</webElementGuid>
+      <webElementGuid>1634926d-e771-4c57-9d54-75334270db74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::a[9]</value>
-      <webElementGuid>55944243-eb74-4d5a-ac3d-7b23a8ab2439</webElementGuid>
+      <webElementGuid>1e05bf93-a34c-4239-80d2-14dc429d6381</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bagian Umum - APS'])[1]/preceding::a[9]</value>
-      <webElementGuid>0a3f3ebe-3e51-4d4a-9f80-9c659ffadd6c</webElementGuid>
+      <webElementGuid>9980d504-9df3-496e-81a1-ea63219637e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='16']/parent::*</value>
-      <webElementGuid>ea193d66-0a21-472a-9c0f-887d68d40367</webElementGuid>
+      <webElementGuid>8bc4275a-6004-4792-a516-d42ea4cde227</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +158,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[14]</value>
-      <webElementGuid>27d42f67-7711-4dd1-95f0-cac940533e8e</webElementGuid>
+      <webElementGuid>305499fd-020f-4aac-9c52-63471bbcfc4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +166,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[3]/td[4]/a</value>
-      <webElementGuid>dcf74000-c3a5-4967-ba65-80e5325452c8</webElementGuid>
+      <webElementGuid>a2a0fe63-63e4-45e8-9f7a-5d52d4467291</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,6 +174,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and @title = '16 Januari 2025' and (text() = '16' or . = '16')]</value>
-      <webElementGuid>ad6a43bf-87dd-4508-94ce-7633f3211ea7</webElementGuid>
+      <webElementGuid>c0716560-32e0-4a70-977b-9c79c2a1286b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

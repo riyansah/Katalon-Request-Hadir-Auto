@@ -41,7 +41,7 @@ WebUI.click(findTestObject('Object Repository/test/Page_Absensi - Absensi - Hadi
 
 WebUI.click(findTestObject('Object Repository/test/Page_Absensi - Absensi - Hadir/hadir_saksi'))
 
-WebUI.click(findTestObject('Object Repository/test/Page_Absensi - Absensi - Hadir/hadir_select_reviewer1'))
+WebUI.click(findTestObject('Object Repository/test/Page_Absensi - Absensi - Hadir/hadir_select_revisewer1'))
 
 WebUI.click(findTestObject('Object Repository/test/Page_Absensi - Absensi - Hadir/hadir_reviewer1'))
 
