@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>hadir_saksi_900807 - DESY WIDAYANTI</name>
+   <name>hadir_reviewer1</name>
    <tag></tag>
-   <elementGuidId>9cdefe51-9740-46db-9d4c-82b1024a749b</elementGuidId>
+   <elementGuidId>4e379437-ac1f-4069-9a31-0ac3736ef6ac</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//form[@id='AbsensiForm']/table/tbody/tr[10]/td[2]/span/span/span</value>
+         <key>CSS</key>
+         <value>li.k-item.k-state-hover</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>span.k-dropdown-wrap.k-state-default.k-state-focused.k-state-hover > span.k-input</value>
+         <key>XPATH</key>
+         <value>//ul[@id='ReviewerId1_listbox']/li[7]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#AbsensiForm >> internal:text=&quot;900807 - DESY WIDAYANTI&quot;i</value>
+         <value>internal:role=option[name=&quot;54077 - IRSE LINTANG KAWURYAN&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,8 +28,24 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>1f795934-b9ae-43c9-8442-3c30c75aaf8b</webElementGuid>
+      <value>li</value>
+      <webElementGuid>135258b0-d800-47e5-863b-c3fb2efc49e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>8de67e41-d09f-4c2b-9c7b-0e5d9f1f5411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>be51ad24-6ddf-4c49-b189-3b466842b203</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,86 +53,86 @@
       <name>unselectable</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>1c20d68f-da6c-4363-9abc-2517379f9c59</webElementGuid>
+      <webElementGuid>ccca100e-6cbf-4a74-8ce5-f829bbc77985</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>k-input</value>
-      <webElementGuid>56d883a2-04cc-47d3-b997-5badcc1f263d</webElementGuid>
+      <value>k-item k-state-hover</value>
+      <webElementGuid>3adc0179-f2f1-4b68-947e-b96708b07a6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>900807 - DESY WIDAYANTI</value>
-      <webElementGuid>de072fc1-6990-440d-9e8b-32bde289020b</webElementGuid>
+      <value>54077 - IRSE LINTANG KAWURYAN</value>
+      <webElementGuid>6d83d700-9510-4130-ace4-cd6a5bfdf96c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;AbsensiForm&quot;)/table[@class=&quot;formTable&quot;]/tbody[1]/tr[10]/td[@class=&quot;valueColumn&quot;]/span[@class=&quot;k-widget k-dropdown k-header w300&quot;]/span[@class=&quot;k-dropdown-wrap k-state-default k-state-focused k-state-hover&quot;]/span[@class=&quot;k-input&quot;]</value>
-      <webElementGuid>2efc2dd3-8268-4e71-9cb6-173ee0e81f67</webElementGuid>
+      <value>id(&quot;ReviewerId1_listbox&quot;)/li[@class=&quot;k-item k-state-hover&quot;]</value>
+      <webElementGuid>08cc54b8-fa16-4a01-8567-7f3ef6b3c3ea</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='AbsensiForm']/table/tbody/tr[10]/td[2]/span/span/span</value>
-      <webElementGuid>0a8e1e94-2a19-4ea3-85db-b5230172a90d</webElementGuid>
+      <value>//ul[@id='ReviewerId1_listbox']/li[7]</value>
+      <webElementGuid>45a541ed-574c-4afb-813d-df738dc87df9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::span[3]</value>
-      <webElementGuid>efb87462-29b8-4d50-876e-174586e38135</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[5]/following::li[6]</value>
+      <webElementGuid>1e79496f-b4c9-4624-979f-f256886a3690</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saksi'])[1]/following::span[4]</value>
-      <webElementGuid>399a0d19-65ef-495a-b42b-f79e6b1a63a5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[4]/following::li[80]</value>
+      <webElementGuid>c4e2b838-c6b0-4239-a479-07f8b3eb2dda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='select'])[6]/preceding::span[1]</value>
-      <webElementGuid>dcc65db9-c8d6-4f7f-b83b-3bb7543a97da</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[6]/preceding::li[68]</value>
+      <webElementGuid>94ba7abf-dac2-4adb-88ce-13cdf880a9f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='900807 - DESY WIDAYANTI']/parent::*</value>
-      <webElementGuid>0bf99fce-ffc7-4e17-a5e4-9b2d5eb6c8ea</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AGUS SIDIK MULATO(40853)'])[1]/preceding::li[69]</value>
+      <webElementGuid>7c2e64db-3756-4e58-9b8a-3c51fdcee4a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[10]/td[2]/span/span/span</value>
-      <webElementGuid>fffe1529-bd8f-42d3-bee8-1ba89bb4f416</webElementGuid>
+      <value>//div[11]/div/ul/li[7]</value>
+      <webElementGuid>2b2d9fca-4064-4648-a331-2e9d162994bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = '900807 - DESY WIDAYANTI' or . = '900807 - DESY WIDAYANTI')]</value>
-      <webElementGuid>1d602c8f-50a0-490f-8162-bb75bed45013</webElementGuid>
+      <value>//li[(text() = '54077 - IRSE LINTANG KAWURYAN' or . = '54077 - IRSE LINTANG KAWURYAN')]</value>
+      <webElementGuid>371ef037-22f1-4a2e-ac87-3aaf1adf959c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

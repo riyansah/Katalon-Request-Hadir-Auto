@@ -11,7 +11,8 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[.='TL CORE BANKING SYSTEM SERVICES']</value>
+         <value>//span[@class='k-widget k-dropdown k-header w400 required']//span[@class='k-icon k-i-arrow-s']&#xd;
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

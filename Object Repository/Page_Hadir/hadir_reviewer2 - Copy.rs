@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>hadir_approvalunit</name>
+   <name>hadir_reviewer2 - Copy</name>
    <tag></tag>
-   <elementGuidId>4697dc8a-4391-4964-871c-536e77719f0f</elementGuidId>
+   <elementGuidId>25dc3430-2d76-4ac7-be9d-b151806263f4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,14 +11,14 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//ul[@id='ApprovalUnitId_listbox']/li[44]</value>
+         <value>//ul[@id='ReviewerId2_listbox']/li[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=option[name=&quot;TL CORE BANKING SYSTEM SERVICES&quot;i]</value>
+         <value>internal:role=option[name=&quot;AGUS SIDIK MULATO(40853)&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>88e06f83-9418-4319-a790-88d54ea4a512</webElementGuid>
+      <webElementGuid>0cac006f-5659-4830-93e2-5858570e9f9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>49572648-fa3a-4b49-a87f-d6f3ffceedf5</webElementGuid>
+      <webElementGuid>1bab8661-f43e-4523-9e8a-6ea01c73f0e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>f98a7d80-b39b-427b-b128-994448cbd5ef</webElementGuid>
+      <webElementGuid>3068f8d7-f228-4d54-b885-ffbe5e06e745</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>unselectable</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>71ca8f8a-932f-478d-a9ba-bd5ab7aa3adf</webElementGuid>
+      <webElementGuid>9086a068-e250-467a-a89e-fbf448f13bc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,86 +61,86 @@
       <name>class</name>
       <type>Main</type>
       <value>k-item k-state-hover</value>
-      <webElementGuid>51567e50-9657-4d51-8c9f-7169e2563d12</webElementGuid>
+      <webElementGuid>e50fec88-7025-40ed-8c98-c9481341e9b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>TL CORE BANKING SYSTEM SERVICES</value>
-      <webElementGuid>02ce4c2b-3c3d-44a7-b627-5d8c68eed428</webElementGuid>
+      <value>AGUS SIDIK MULATO(40853)</value>
+      <webElementGuid>d30a0dec-92a9-445c-9c79-7cb8a179548f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ApprovalUnitId_listbox&quot;)/li[@class=&quot;k-item k-state-hover&quot;]</value>
-      <webElementGuid>04836969-fc41-4f40-9859-28e074b91f91</webElementGuid>
+      <value>id(&quot;ReviewerId2_listbox&quot;)/li[@class=&quot;k-item k-state-hover&quot;]</value>
+      <webElementGuid>833a9cdd-eb29-42f3-9df1-85aa8b5648f8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='ApprovalUnitId_listbox']/li[44]</value>
-      <webElementGuid>766ac1d9-c16e-441b-939c-59db332c6c4e</webElementGuid>
+      <value>//ul[@id='ReviewerId2_listbox']/li[2]</value>
+      <webElementGuid>535c5163-49e2-4607-b873-1f7ae544c37d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='TL COE’s TESTING MANAGEMENT'])[1]/following::li[1]</value>
-      <webElementGuid>4429c8db-e95f-4982-b869-9001792d995c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[5]/following::li[1]</value>
+      <webElementGuid>33658a98-2017-4004-96ea-d6094ea3faef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='TL BUSINESS OPERATIONS &amp; OFFICE AUTOMATION'])[1]/following::li[2]</value>
-      <webElementGuid>4f629be2-81c1-43e4-8db5-8b99d00251bf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[4]/following::li[75]</value>
+      <webElementGuid>fb0c3e23-20c8-4dfb-a0b8-f1d285c8c2ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='TL DELIVERY CHANNEL SERVICES'])[2]/preceding::li[1]</value>
-      <webElementGuid>132fc79c-4cfb-4cfe-a9b4-b882f9dfe3ed</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SLAMET HARTOJO(22673)'])[1]/preceding::li[1]</value>
+      <webElementGuid>ec8b1e9d-9102-4ecf-a607-5fbf7112b129</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='TL INFORMATION DELIVERY SYSTEM SERVICES'])[1]/preceding::li[2]</value>
-      <webElementGuid>57c356cc-4fa2-4727-ae5b-42c1bc8e7999</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comment'])[1]/preceding::li[2]</value>
+      <webElementGuid>afc530a9-dddc-49b6-8f7e-ec62b3357100</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='TL CORE BANKING SYSTEM SERVICES']/parent::*</value>
-      <webElementGuid>0a1ad674-18f5-4fe0-843d-17d3d5c6ea7a</webElementGuid>
+      <value>//*/text()[normalize-space(.)='AGUS SIDIK MULATO(40853)']/parent::*</value>
+      <webElementGuid>11ee3d4b-43b3-44b1-8c34-2d6bb835939a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[44]</value>
-      <webElementGuid>d26503db-0d3b-4254-9ac7-ef15a85d6bde</webElementGuid>
+      <value>//div[12]/div/ul/li[2]</value>
+      <webElementGuid>3dffac80-58e1-4de9-aecc-9ba7d7b42571</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//li[(text() = 'TL CORE BANKING SYSTEM SERVICES' or . = 'TL CORE BANKING SYSTEM SERVICES')]</value>
-      <webElementGuid>1a7526a0-496b-479e-9f83-675d796d4bbf</webElementGuid>
+      <value>//li[(text() = 'AGUS SIDIK MULATO(40853)' or . = 'AGUS SIDIK MULATO(40853)')]</value>
+      <webElementGuid>ec9418cf-7c91-4bb7-8e56-933f8ada3263</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>hadir_tanggal</name>
+   <name>span_select</name>
    <tag></tag>
-   <elementGuidId>5c66e8c8-1324-4c5c-af33-5c9b9be3207e</elementGuidId>
+   <elementGuidId>22b3b6a2-2505-4aa4-9e13-db199cf21047</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//form[@id='AbsensiForm']/table/tbody/tr[4]/td[2]/span/span/span/span</value>
+         <key>CSS</key>
+         <value>span.k-dropdown-wrap.k-state-default.k-state-hover.k-state-focused > span.k-select</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>span.k-icon.k-i-calendar</value>
+         <key>XPATH</key>
+         <value>//form[@id='AbsensiForm']/table/tbody/tr[9]/td[2]/span/span/span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=cell[name=&quot;Current focused date is 21 Januari 2025 select Tanggal yang tersedia adalah tanggal yang berstatus TK. Dengan kondisi H - 1 Status Hadir&quot;i] >> internal:role=button</value>
+         <value>.valueColumn > span > .k-dropdown-wrap > .k-select >> nth=0</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>904448e5-19b5-4a04-8516-dc89e6eb9c14</webElementGuid>
+      <webElementGuid>fb3f3676-7fcb-41d5-bee3-1e99e259ac63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,15 +37,15 @@
       <name>unselectable</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>5e664f26-81dd-43ae-9655-b1afad0cb583</webElementGuid>
+      <webElementGuid>d200279a-c33e-40cc-adcc-127a734a2d12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>k-icon k-i-calendar</value>
-      <webElementGuid>b9266be1-dd37-41df-a866-3a7e4bbb28f2</webElementGuid>
+      <value>k-select</value>
+      <webElementGuid>38afd062-ab95-483f-84e6-80af296c1965</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,47 +53,47 @@
       <name>text</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>c38cdd1f-3f5a-4985-9d08-2ac209ee97f0</webElementGuid>
+      <webElementGuid>5553b6bc-fcaa-4fb1-8f6e-468439719897</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;AbsensiForm&quot;)/table[@class=&quot;formTable&quot;]/tbody[1]/tr[4]/td[@class=&quot;valueColumn&quot;]/span[@class=&quot;k-widget k-datepicker k-header dateHadir k-state-border-down&quot;]/span[@class=&quot;k-picker-wrap k-state-default k-state-hover k-state-active k-state-border-down k-state-focused&quot;]/span[@class=&quot;k-select&quot;]/span[@class=&quot;k-icon k-i-calendar&quot;]</value>
-      <webElementGuid>aa52845a-bce5-4ae4-9e34-aa5eb642d395</webElementGuid>
+      <value>id(&quot;AbsensiForm&quot;)/table[@class=&quot;formTable&quot;]/tbody[1]/tr[9]/td[@class=&quot;valueColumn&quot;]/span[@class=&quot;k-widget k-dropdown k-header w400 required&quot;]/span[@class=&quot;k-dropdown-wrap k-state-default k-state-hover k-state-focused&quot;]/span[@class=&quot;k-select&quot;]</value>
+      <webElementGuid>7679aff0-2992-4fde-89fd-13fc7156f2e1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='AbsensiForm']/table/tbody/tr[4]/td[2]/span/span/span/span</value>
-      <webElementGuid>bfc9a316-367e-44a1-b9b9-d8a64ef1c041</webElementGuid>
+      <value>//form[@id='AbsensiForm']/table/tbody/tr[9]/td[2]/span/span/span[2]</value>
+      <webElementGuid>c090aa09-7e9a-4459-a33d-adbf6af99eaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[4]</value>
-      <webElementGuid>c69253a2-5854-44e3-9c16-34b6fe34eeaa</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TL DELIVERY CHANNEL SERVICES'])[1]/following::span[1]</value>
+      <webElementGuid>82f6e896-1f8c-4d69-a581-3d5e6be2b303</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::span[4]</value>
-      <webElementGuid>e5ccd7cd-4c47-4a61-b99c-f5bb9b2940c6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::span[4]</value>
+      <webElementGuid>14d98027-8ef7-4e4d-accc-e36f46763813</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[2]/span/span/span/span</value>
-      <webElementGuid>7b48c05d-5ac5-405a-a793-bb7635c15e9e</webElementGuid>
+      <value>//td[2]/span/span/span[2]</value>
+      <webElementGuid>3fececa5-bbcd-479c-9af3-9ec77b8f7385</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'select' or . = 'select')]</value>
-      <webElementGuid>7fff0a37-1a8a-46c1-a9f6-3e8d569baf0c</webElementGuid>
+      <webElementGuid>d4607089-f829-4927-90ea-2573880e8f9e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

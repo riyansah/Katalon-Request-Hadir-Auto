@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>hadir_select_saksi</name>
+   <tag></tag>
+   <elementGuidId>1fe9d282-dc59-478b-b203-5e59b1506022</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-dropdown-wrap.k-state-default.k-state-hover > span.k-select > span.k-icon.k-i-arrow-s</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='AbsensiForm']/table/tbody/tr[10]/td[2]/span/span/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>tr:nth-child(10) > .valueColumn > span > .k-dropdown-wrap > .k-select > .k-icon</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>59ecdc69-2269-46a0-a895-2768abcf7d2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>81f5d5c9-ad90-4dc1-99b4-01b0572950e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-arrow-s</value>
+      <webElementGuid>fea19464-5c26-4a2d-baed-a83abd853cc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ce12c3ae-5dcc-43fe-ae67-1827bc1b387a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AbsensiForm&quot;)/table[@class=&quot;formTable&quot;]/tbody[1]/tr[10]/td[@class=&quot;valueColumn&quot;]/span[@class=&quot;k-widget k-dropdown k-header w300&quot;]/span[@class=&quot;k-dropdown-wrap k-state-default k-state-hover&quot;]/span[@class=&quot;k-select&quot;]/span[@class=&quot;k-icon k-i-arrow-s&quot;]</value>
+      <webElementGuid>bf6c8824-bb20-4cb9-be22-a964c0433c53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='AbsensiForm']/table/tbody/tr[10]/td[2]/span/span/span[2]/span</value>
+      <webElementGuid>d118a807-97fa-489a-981b-575fb962b228</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::span[2]</value>
+      <webElementGuid>2ac715c8-4278-4811-956c-91e89dc7d626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::span[5]</value>
+      <webElementGuid>2feb3a6e-a433-459b-890b-af6f146cd4ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reviewer 1'])[1]/preceding::span[4]</value>
+      <webElementGuid>c0c65f3e-59b7-473a-a6e5-530b2ce98fe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[10]/td[2]/span/span/span[2]/span</value>
+      <webElementGuid>4b6c6d46-491d-46b7-93c6-3c76ece22f40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'select' or . = 'select')]</value>
+      <webElementGuid>21f0ba7b-0382-41ae-b035-dec426b00461</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

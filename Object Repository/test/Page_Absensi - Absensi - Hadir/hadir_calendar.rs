@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>hadir_reviewer2__AGUS SIDIK MULATO(40853)</name>
+   <name>hadir_calendar</name>
    <tag></tag>
-   <elementGuidId>deb07c87-245e-4d0e-b089-19dd9fff69f4</elementGuidId>
+   <elementGuidId>e3e52679-58b6-44d6-b915-8d94ed8cb7ad</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//form[@id='AbsensiForm']/table/tbody/tr[12]/td[2]/span/span/span</value>
+         <key>CSS</key>
+         <value>span.k-icon.k-i-calendar</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>span.k-dropdown-wrap.k-state-default.k-state-focused.k-state-hover > span.k-input</value>
+         <key>XPATH</key>
+         <value>//form[@id='AbsensiForm']/table/tbody/tr[4]/td[2]/span/span/span/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#AbsensiForm >> internal:text=&quot;AGUS SIDIK MULATO(40853)&quot;i</value>
+         <value>internal:role=cell[name=&quot;Current focused date is null select Tanggal yang tersedia adalah tanggal yang berstatus TK. Dengan kondisi H - 1 Status Hadir&quot;i] >> internal:role=button</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>3bfcdf5d-147c-4988-bc6f-0c629cd312e2</webElementGuid>
+      <webElementGuid>4fca0a69-d09a-4105-a414-3c6e006a0727</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,78 +37,70 @@
       <name>unselectable</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>d2ad18b4-54e7-419a-915a-23afa20278f1</webElementGuid>
+      <webElementGuid>a0ec34ef-4f8f-498f-b999-b7315f357be0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>k-input</value>
-      <webElementGuid>de96670d-b6b2-4aa7-b60e-5e6ccf5da3e2</webElementGuid>
+      <value>k-icon k-i-calendar</value>
+      <webElementGuid>ad9dc8cf-2c70-44e7-a294-ff709a29c7c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>AGUS SIDIK MULATO(40853)</value>
-      <webElementGuid>382be2b7-ac0f-43da-8a1a-f6258ff28814</webElementGuid>
+      <value>select</value>
+      <webElementGuid>8cd343a9-1cc9-48a1-90a3-8c52d406bda0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;AbsensiForm&quot;)/table[@class=&quot;formTable&quot;]/tbody[1]/tr[12]/td[@class=&quot;valueColumn&quot;]/span[@class=&quot;k-widget k-dropdown k-header w300&quot;]/span[@class=&quot;k-dropdown-wrap k-state-default k-state-focused k-state-hover&quot;]/span[@class=&quot;k-input&quot;]</value>
-      <webElementGuid>f6c6a0c9-4630-4a56-a2f1-8d684925e5d7</webElementGuid>
+      <value>id(&quot;AbsensiForm&quot;)/table[@class=&quot;formTable&quot;]/tbody[1]/tr[4]/td[@class=&quot;valueColumn&quot;]/span[@class=&quot;k-widget k-datepicker k-header dateHadir&quot;]/span[@class=&quot;k-picker-wrap k-state-default k-state-hover&quot;]/span[@class=&quot;k-select&quot;]/span[@class=&quot;k-icon k-i-calendar&quot;]</value>
+      <webElementGuid>b2d2239b-f3ea-4125-85a3-492bf93e93d7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='AbsensiForm']/table/tbody/tr[12]/td[2]/span/span/span</value>
-      <webElementGuid>eacc141c-9aee-4d8f-a971-66ec544d9394</webElementGuid>
+      <value>//form[@id='AbsensiForm']/table/tbody/tr[4]/td[2]/span/span/span/span</value>
+      <webElementGuid>db13603f-610e-415a-9caa-6e81619ec176</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/following::span[3]</value>
-      <webElementGuid>0a41662e-c26e-43dc-b0c0-eee6e3ead5d6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[4]</value>
+      <webElementGuid>7302b887-a881-401f-ba1d-9ab0f3533c93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='select'])[8]/preceding::span[1]</value>
-      <webElementGuid>8cbfd349-d875-4191-98fb-fdb88566e86e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='AGUS SIDIK MULATO(40853)']/parent::*</value>
-      <webElementGuid>12968511-bf34-4397-9479-88f27916e648</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::span[4]</value>
+      <webElementGuid>fac29ff8-c89f-4422-9b35-f1ce80536be7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[12]/td[2]/span/span/span</value>
-      <webElementGuid>1f198644-7f65-4acc-94ad-72ebcbf06f74</webElementGuid>
+      <value>//td[2]/span/span/span/span</value>
+      <webElementGuid>e2765cce-b7b0-46d8-a34a-e29ec41b69ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'AGUS SIDIK MULATO(40853)' or . = 'AGUS SIDIK MULATO(40853)')]</value>
-      <webElementGuid>30a2acba-8bb3-440d-ae96-de3bc4479fbf</webElementGuid>
+      <value>//span[(text() = 'select' or . = 'select')]</value>
+      <webElementGuid>612cb0ab-0a72-4c3d-b6d4-971e5401bb3e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>hadir_approvalunit</name>
+   <name>li_TL CORE BANKING SYSTEM SERVICES</name>
    <tag></tag>
-   <elementGuidId>4697dc8a-4391-4964-871c-536e77719f0f</elementGuidId>
+   <elementGuidId>4c61ab75-e909-4fc5-9057-e112fc3312e1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>88e06f83-9418-4319-a790-88d54ea4a512</webElementGuid>
+      <webElementGuid>2b5cf39c-66f8-4016-aff3-ca4d505fcfa7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>49572648-fa3a-4b49-a87f-d6f3ffceedf5</webElementGuid>
+      <webElementGuid>d29ded03-d2c2-4661-af38-e7f1fb18a84a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>f98a7d80-b39b-427b-b128-994448cbd5ef</webElementGuid>
+      <webElementGuid>72a9d578-8ed0-4cc7-aea3-30b782a18b17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>unselectable</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>71ca8f8a-932f-478d-a9ba-bd5ab7aa3adf</webElementGuid>
+      <webElementGuid>81ae472c-6b12-43f6-9676-8ca62a64f8b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-item k-state-hover</value>
-      <webElementGuid>51567e50-9657-4d51-8c9f-7169e2563d12</webElementGuid>
+      <webElementGuid>3c4c57ed-1c0d-471e-a5d9-19f665232cec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>text</name>
       <type>Main</type>
       <value>TL CORE BANKING SYSTEM SERVICES</value>
-      <webElementGuid>02ce4c2b-3c3d-44a7-b627-5d8c68eed428</webElementGuid>
+      <webElementGuid>8bb3bd01-42bf-400b-8256-3a8a97199185</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ApprovalUnitId_listbox&quot;)/li[@class=&quot;k-item k-state-hover&quot;]</value>
-      <webElementGuid>04836969-fc41-4f40-9859-28e074b91f91</webElementGuid>
+      <webElementGuid>362c7a24-d7b0-4dbc-9bc9-d995a96a63aa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='ApprovalUnitId_listbox']/li[44]</value>
-      <webElementGuid>766ac1d9-c16e-441b-939c-59db332c6c4e</webElementGuid>
+      <webElementGuid>fec4baff-f9e0-48db-9646-7d7f3038f5b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='TL COE’s TESTING MANAGEMENT'])[1]/following::li[1]</value>
-      <webElementGuid>4429c8db-e95f-4982-b869-9001792d995c</webElementGuid>
+      <webElementGuid>7e1afe50-be50-4eca-90d5-fca95efd909c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='TL BUSINESS OPERATIONS &amp; OFFICE AUTOMATION'])[1]/following::li[2]</value>
-      <webElementGuid>4f629be2-81c1-43e4-8db5-8b99d00251bf</webElementGuid>
+      <webElementGuid>56547b76-884f-4bc9-a6cd-d8ba5f220452</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='TL DELIVERY CHANNEL SERVICES'])[2]/preceding::li[1]</value>
-      <webElementGuid>132fc79c-4cfb-4cfe-a9b4-b882f9dfe3ed</webElementGuid>
+      <webElementGuid>82ec279d-b880-4962-bcb4-dbd8931b11ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='TL INFORMATION DELIVERY SYSTEM SERVICES'])[1]/preceding::li[2]</value>
-      <webElementGuid>57c356cc-4fa2-4727-ae5b-42c1bc8e7999</webElementGuid>
+      <webElementGuid>b07cdd83-4bf9-406a-8dd3-3b446729e994</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='TL CORE BANKING SYSTEM SERVICES']/parent::*</value>
-      <webElementGuid>0a1ad674-18f5-4fe0-843d-17d3d5c6ea7a</webElementGuid>
+      <webElementGuid>3843afed-69ea-4c35-b419-3754bb6e50ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[44]</value>
-      <webElementGuid>d26503db-0d3b-4254-9ac7-ef15a85d6bde</webElementGuid>
+      <webElementGuid>f42f4788-c0eb-4f8c-8391-a086305ee065</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'TL CORE BANKING SYSTEM SERVICES' or . = 'TL CORE BANKING SYSTEM SERVICES')]</value>
-      <webElementGuid>1a7526a0-496b-479e-9f83-675d796d4bbf</webElementGuid>
+      <webElementGuid>4a552293-bc45-4bb9-b6fa-b74ae31749a6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

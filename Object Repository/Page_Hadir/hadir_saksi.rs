@@ -3,22 +3,22 @@
    <description></description>
    <name>hadir_saksi</name>
    <tag></tag>
-   <elementGuidId>d8ecf72d-b074-4551-8e93-7ba936c5ad8d</elementGuidId>
+   <elementGuidId>4e6d3421-acd5-4a3c-91e9-003ffb94ccac</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//form[@id='AbsensiForm']/table/tbody/tr[10]/td[2]/span/span/span[2]/span</value>
+         <key>CSS</key>
+         <value>li.k-item.k-state-hover</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>span.k-dropdown-wrap.k-state-default.k-state-hover.k-state-focused.k-state-active.k-state-border-down > span.k-select > span.k-icon.k-i-arrow-s</value>
+         <key>XPATH</key>
+         <value>//ul[@id='WitnessId_listbox']/li[62]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>tr:nth-child(10) > .valueColumn > span > .k-dropdown-wrap > .k-select > .k-icon</value>
+         <value>internal:role=option[name=&quot;900807 - DESY WIDAYANTI&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,8 +28,24 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>d2188fbc-e03a-4008-ac14-987885afa9d2</webElementGuid>
+      <value>li</value>
+      <webElementGuid>580a83ba-5e31-43ad-a7be-2ecfb8ff00ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>dce8f027-646f-4430-8cf4-2b50547a0ac0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>f8683586-3f82-4b2e-b4bf-c7aa9e997a86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,78 +53,94 @@
       <name>unselectable</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>e43a57f6-e18d-4d6e-bf97-9371c962f68c</webElementGuid>
+      <webElementGuid>6fac6566-f955-4e58-8eb6-485c93c323fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>k-icon k-i-arrow-s</value>
-      <webElementGuid>9c06d12c-c541-4128-a901-ea6f8e357bd7</webElementGuid>
+      <value>k-item k-state-hover</value>
+      <webElementGuid>625ad656-0dcc-4349-b0c8-c386abaf02a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>select</value>
-      <webElementGuid>2eead7ab-b302-4144-815d-e50ee084f994</webElementGuid>
+      <value>900807 - DESY WIDAYANTI</value>
+      <webElementGuid>2efe2018-5eaa-49da-8980-1999351afa5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;AbsensiForm&quot;)/table[@class=&quot;formTable&quot;]/tbody[1]/tr[10]/td[@class=&quot;valueColumn&quot;]/span[@class=&quot;k-widget k-dropdown k-header w300 k-state-border-down&quot;]/span[@class=&quot;k-dropdown-wrap k-state-default k-state-hover k-state-focused k-state-active k-state-border-down&quot;]/span[@class=&quot;k-select&quot;]/span[@class=&quot;k-icon k-i-arrow-s&quot;]</value>
-      <webElementGuid>8225de3a-8d54-458f-845e-65b94e7a4c35</webElementGuid>
+      <value>id(&quot;WitnessId_listbox&quot;)/li[@class=&quot;k-item k-state-hover&quot;]</value>
+      <webElementGuid>e36cccf2-3b03-4082-aecb-be6ed6d6bcc0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='AbsensiForm']/table/tbody/tr[10]/td[2]/span/span/span[2]/span</value>
-      <webElementGuid>89384d9d-dedf-4886-acf1-0958f0222f0b</webElementGuid>
+      <value>//ul[@id='WitnessId_listbox']/li[62]</value>
+      <webElementGuid>9b8aa418-4d5f-4d4b-8c63-1397b7587dec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::span[2]</value>
-      <webElementGuid>248565fa-a899-4740-ba66-208f18a7e376</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[5]/following::li[61]</value>
+      <webElementGuid>f9c684ad-a2e5-4a28-8237-0e1fc055c424</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::span[5]</value>
-      <webElementGuid>f79ef7b8-0b8c-40b7-9944-1d4e06b0bc25</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TL PAYMENT &amp; INTEGRATION SERVICES'])[1]/following::li[62]</value>
+      <webElementGuid>dc5d7b0c-10d7-4878-9ce2-6023ca60d2c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reviewer 1'])[1]/preceding::span[4]</value>
-      <webElementGuid>dac0fed8-166c-4c06-8451-199391974c39</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[6]/preceding::li[13]</value>
+      <webElementGuid>e1264902-21de-4cff-bb9a-7a89845c2004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[7]/preceding::li[87]</value>
+      <webElementGuid>49c3a735-36cb-408d-bf96-789f526a073b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='900807 - DESY WIDAYANTI']/parent::*</value>
+      <webElementGuid>22399d88-2741-4269-a7e9-42587643a704</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[10]/td[2]/span/span/span[2]/span</value>
-      <webElementGuid>f7bce8c8-448c-4f3e-90f7-a0d5450c9e09</webElementGuid>
+      <value>//li[62]</value>
+      <webElementGuid>de74c01f-9772-44b1-a6e7-bb92a56e18e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'select' or . = 'select')]</value>
-      <webElementGuid>14d2ee0e-e468-495f-9855-ebbfdefaeed6</webElementGuid>
+      <value>//li[(text() = '900807 - DESY WIDAYANTI' or . = '900807 - DESY WIDAYANTI')]</value>
+      <webElementGuid>0a3bb36a-2f3b-4231-bdf3-bdf4c3598d44</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

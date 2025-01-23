@@ -69,9 +69,9 @@ WebUI.click(findTestObject('Page_Hadir/Calendar'))
 
 WebUI.click(findTestObject('Page_Hadir/hadir_today'))
 
-//WebUI.verifyElementPresent(findTestObject('Page_Hadir/hadir_tanggal_verify_bulan'), 0) tidak dipake
-//WebUI.click(findTestObject('Page_Hadir/hadir_tanggal_tanggal')) tidak dipake
-//WebUI.click(findTestObject('Page_Hadir/hadir_tanggal_tanggal')) 
+//WebUI.verifyElementPresent(findTestObject('null'), 0) tidak dipake
+//WebUI.click(findTestObject('null')) tidak dipake
+//WebUI.click(findTestObject('null')) 
 WebUI.setText(findTestObject('Page_Hadir/hadir_jamhadir'), JamHadir)
 
 WebUI.setText(findTestObject('Page_Hadir/hadir_jampulang'), JamPulang)
@@ -80,11 +80,31 @@ WebUI.click(findTestObject('Page_Hadir/hadir_karena2'))
 
 WebUI.setText(findTestObject('Page_Hadir/hadir_alasan'), Alasan)
 
-WebUI.click(findTestObject('Page_Hadir/Test1'))
+WebUI.click(findTestObject('Page_Hadir/hadir_select_approvalunit'))
 
-WebUI.setText(findTestObject('Page_Hadir/hadir_saksi'), Saksi)
+WebUI.click(findTestObject('Page_Hadir/hadir_approvalunit'))
 
-WebUI.setText(findTestObject('Page_Hadir/hadir_reviewer1'), Reviewer1)
+WebUI.click(findTestObject('Page_Hadir/hadir_select_saksi'))
 
-WebUI.setText(findTestObject('Page_Hadir/hadir_reviewer2'), Reviewer2)
+WebUI.click(findTestObject('Page_Hadir/hadir_saksi'))
 
+WebUI.click(findTestObject('Page_Hadir/hadir_select_reviewer1'))
+
+WebUI.click(findTestObject('Page_Hadir/hadir_reviewer1'))
+
+WebUI.click(findTestObject('Page_Hadir/hadir_select_reviewer2'))
+
+WebUI.click(findTestObject('Page_Hadir/hadir_reviewer2'))
+
+//WebUI.click(findTestObject('Page_Hadir/Test1'))
+//
+//WebUI.waitForElementVisible(findTestObject('null'), 5)
+//
+//WebUI.click(findTestObject('Page_Hadir/approvalunit2'))
+//
+//WebUI.setText(findTestObject('null'), Saksi)
+//
+//WebUI.setText(findTestObject('null'), Reviewer1)
+//
+//WebUI.setText(findTestObject('Page_Hadir/hadir_reviewer2'), Reviewer2)
+//
