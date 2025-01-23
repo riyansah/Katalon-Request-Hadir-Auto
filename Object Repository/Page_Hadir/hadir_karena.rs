@@ -6,12 +6,12 @@
    <elementGuidId>20645329-630c-4997-9ed3-d3ad24bdda77</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//input[@id='BecauseOf'])[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div:nth-of-type(2) > #BecauseOf</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/input[@id=&quot;BecauseOf&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3e208559-db9b-4f73-a672-96c2b0a6843b</webElementGuid>
+      <webElementGuid>456fea2a-953c-424a-b1c4-311340838cb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>BecauseOf</value>
-      <webElementGuid>33f76616-0a4b-4a95-838c-07b8dbbcf492</webElementGuid>
+      <webElementGuid>33d90db7-5d22-40b4-918c-cc61c148257e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>BecauseOf</value>
-      <webElementGuid>a789cc5d-b010-4f0d-8758-79e6e25d25c0</webElementGuid>
+      <webElementGuid>e5e6488c-dbb8-434f-b801-0b2f5bca6b5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>5b72132c-b5d3-4fef-bd2a-d44696a67712</webElementGuid>
+      <webElementGuid>f5223ac7-5229-4ca4-a30c-5e4f1e8b78bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Lainnya</value>
-      <webElementGuid>39f430c0-7e9f-4032-af23-19cbc73d27f5</webElementGuid>
+      <webElementGuid>9205aaed-b363-48b6-92d8-45d860733688</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;AbsensiForm&quot;)/table[@class=&quot;formTable&quot;]/tbody[1]/tr[7]/td[@class=&quot;valueColumn&quot;]/div[2]/input[@id=&quot;BecauseOf&quot;]</value>
-      <webElementGuid>ccb34753-8cdb-40ba-913d-87cb3e9f7ec1</webElementGuid>
+      <webElementGuid>039558ae-6ada-4b87-95bc-0323f9f1c536</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@id='BecauseOf'])[2]</value>
-      <webElementGuid>533f8e6f-e717-4683-b595-a2af4f5cb238</webElementGuid>
+      <webElementGuid>87f7e89c-e9d7-47da-9370-96dc8fea95e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='AbsensiForm']/table/tbody/tr[7]/td[2]/div[2]/input</value>
-      <webElementGuid>b9375627-524b-421d-bb29-1491799b737d</webElementGuid>
+      <webElementGuid>59d6c888-7072-495d-89d3-6d5387a14e6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>916d3874-6aa3-466a-9b42-1ea9a4ec0521</webElementGuid>
+      <webElementGuid>0f2d724c-99b9-427b-9920-6b3f8edabfb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'BecauseOf' and @name = 'BecauseOf' and @type = 'radio']</value>
-      <webElementGuid>8cfa10c6-0074-4ce6-9d1b-71b126fa7b5e</webElementGuid>
+      <webElementGuid>d276acbb-613e-4254-bb90-f1af0a9fbf06</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

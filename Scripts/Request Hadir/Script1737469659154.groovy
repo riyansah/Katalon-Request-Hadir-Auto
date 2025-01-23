@@ -17,21 +17,35 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-def testdata = findTestData("Data Files/Data Request Hadir")
+def testdata = findTestData('Data Files/Data Request Hadir')
+
 def NPP = testdata.getValue(1, 1)
+
 def password = testdata.getValue(2, 1)
+
 def Title = testdata.getValue(3, 1)
+
 def Tanggal = testdata.getValue(4, 1)
+
 def JamHadir = testdata.getValue(5, 1)
+
 def JamPulang = testdata.getValue(6, 1)
+
 def Karena = testdata.getValue(7, 1)
+
 def Alasan = testdata.getValue(8, 1)
+
 def ApprovalUnit = testdata.getValue(9, 1)
+
 def Saksi = testdata.getValue(10, 1)
+
 def Reviewer1 = testdata.getValue(11, 1)
+
 def Reviewer2 = testdata.getValue(12, 1)
 
 WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://e-office.bni.co.id/')
 
@@ -51,21 +65,22 @@ WebUI.click(findTestObject('Page_Absensi/absensi_hadir'))
 
 WebUI.setText(findTestObject('Page_Hadir/hadir_title'), Title)
 
-WebUI.getAttribute(findTestObject('Page_Hadir/hadir_tanggal'), Tanggal)
+WebUI.click(findTestObject('Page_Hadir/Calendar'))
 
-//WebUI.verifyElementPresent(findTestObject('Page_Hadir/hadir_tanggal_verify_bulan'), 0)
-//WebUI.click(findTestObject('Page_Hadir/hadir_tanggal_tanggal'))
-WebUI.click(findTestObject('Page_Hadir/hadir_tanggal_tanggal'))
+WebUI.click(findTestObject('Page_Hadir/hadir_today'))
 
+//WebUI.verifyElementPresent(findTestObject('Page_Hadir/hadir_tanggal_verify_bulan'), 0) tidak dipake
+//WebUI.click(findTestObject('Page_Hadir/hadir_tanggal_tanggal')) tidak dipake
+//WebUI.click(findTestObject('Page_Hadir/hadir_tanggal_tanggal')) 
 WebUI.setText(findTestObject('Page_Hadir/hadir_jamhadir'), JamHadir)
 
 WebUI.setText(findTestObject('Page_Hadir/hadir_jampulang'), JamPulang)
 
-WebUI.setText(findTestObject('Page_Hadir/hadir_karena'))
+WebUI.click(findTestObject('Page_Hadir/hadir_karena2'))
 
 WebUI.setText(findTestObject('Page_Hadir/hadir_alasan'), Alasan)
 
-WebUI.setText(findTestObject('Page_Hadir/hadir_approvalunit'), ApprovalUnit)
+WebUI.click(findTestObject('Page_Hadir/Test1'))
 
 WebUI.setText(findTestObject('Page_Hadir/hadir_saksi'), Saksi)
 
